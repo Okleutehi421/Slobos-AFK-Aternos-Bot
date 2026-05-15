@@ -1,21 +1,21 @@
 {
-  "name": "AFK Bot",
+  "name": "Afk Bot",
   "bot-account": {
-    "username": "CityCraft_Bot",
+    "username": "ExtraDani_Fan",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Citycraft-Q3KG.aternos.me",
+    "ip": "Blockunity.de",
     "port": 19837,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 150,
+    "y": 63,
+    "z": -250
   },
   "utils": {
     "auto-auth": {
@@ -31,15 +31,15 @@
       "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Ich bin ExtraDanis Fan",
+        "Folge ExtraDani auf Twitch!",
+       "blockunity auf die 1!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 300,
-    "max-reconnect-delay": 12000
+    "auto-reconnect-delay": 100000,
+    "max-reconnect-delay": 1000000
   },
   "movement": {
     "enabled": true,
